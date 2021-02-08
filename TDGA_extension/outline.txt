@@ -1,0 +1,2 @@
+TDGAの改良を行う課題．(TDGA論文)[https://ieeexplore.ieee.org/document/489142]
+目的関数空間上における多様性を考慮した評価関数を適用することで，性能の向上を図った．
